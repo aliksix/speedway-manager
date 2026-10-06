@@ -8,6 +8,10 @@ Gra menedżerska o żużlu w stylu Football Managera. Czysty JavaScript + lokaln
 
 ## Zapis gry
 
+Bez serwera (np. wersja online na GitHub Pages: https://aliksix.github.io/speedway-manager/) gra zapisuje się w pamięci przeglądarki (IndexedDB) – tym samym zapisem przyrostowym, ale tylko w tej przeglądarce i na tym komputerze. Wyczyszczenie danych witryny usuwa zapisy.
+
+Z serwerem (`start.bat`):
+
 Każda rozgrywka to osobny plik `saves/<id>.sqlite` z pełną bazą danych gry:
 
 | tabela | zawartość |

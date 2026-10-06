@@ -24,11 +24,66 @@ const DB = { on: false, cache: new Map(), frozen: new Set(), timer: null, saving
 const JSON_HDR = { 'Content-Type': 'application/json' };
 
 async function dbCheck() {
-  if (!/^https?:$/.test(location.protocol)) return (DB.on = false);
-  try { DB.on = (await fetch('/api/games', { cache: 'no-store' })).ok; } catch (e) { DB.on = false; }
+  DB.local = false;
+  if (/^https?:$/.test(location.protocol)) { try { DB.on = (await fetch('api/games', { cache: 'no-store' })).ok; } catch (e) { DB.on = false; } }
+  if (!DB.on && typeof indexedDB !== 'undefined') { // bez serwera (GitHub Pages, plik z dysku): zapis w pamięci przeglądarki
+    try { await ldb(); DB.on = DB.local = true; if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {}); } catch (e) { DB.on = false; }
+  }
   return DB.on;
 }
+// ---------- Zapis w przeglądarce (IndexedDB) – to samo API co serwer tools/server.js ----------
+// games: id → { id, meta, state (JSON), size }; rows: [id gry, tabela, id rekordu] → rekord (JSON)
+let LDB = null;
+function ldb() {
+  if (LDB) return LDB;
+  LDB = new Promise((ok, fail) => {
+    const rq = indexedDB.open('zuzlowy-menedzer', 1);
+    rq.onupgradeneeded = () => { rq.result.createObjectStore('games', { keyPath: 'id' }); rq.result.createObjectStore('rows'); };
+    rq.onsuccess = () => ok(rq.result);
+    rq.onerror = () => { LDB = null; fail(rq.error); };
+  });
+  return LDB;
+}
+const ldbReq = rq => new Promise((ok, fail) => { rq.onsuccess = () => ok(rq.result); rq.onerror = () => fail(rq.error); });
+const ldbDone = tx => new Promise((ok, fail) => { tx.oncomplete = ok; tx.onerror = tx.onabort = () => fail(tx.error || new Error('Zapis w przeglądarce przerwany')); });
+const ldbRange = id => IDBKeyRange.bound([id], [id, []]);
+async function localApi(url, method, body) {
+  const db = await ldb(), id = (url.match(/games\/([a-z0-9-]+)/) || [])[1];
+  if (!id && method === 'GET') {
+    const games = await ldbReq(db.transaction('games').objectStore('games').getAll());
+    return { games: games.map(g => ({ id: g.id, ...g.meta, size: g.size || 0 })).sort((a, b) => String(b.updated).localeCompare(String(a.updated))) };
+  }
+  if (id && method === 'GET') {
+    const tx = db.transaction(['games', 'rows']);
+    const [g, keys, vals] = await Promise.all([ldbReq(tx.objectStore('games').get(id)), ldbReq(tx.objectStore('rows').getAllKeys(ldbRange(id))), ldbReq(tx.objectStore('rows').getAll(ldbRange(id)))]);
+    if (!g) throw new Error('Nie ma takiej gry w pamięci przeglądarki');
+    const tables = {};
+    keys.forEach((k, i) => (tables[k[1]] = tables[k[1]] || []).push(JSON.parse(vals[i])));
+    return { id, meta: g.meta, state: JSON.parse(g.state), tables };
+  }
+  if (id && method === 'DELETE') {
+    const tx = db.transaction(['games', 'rows'], 'readwrite');
+    tx.objectStore('games').delete(id); tx.objectStore('rows').delete(ldbRange(id));
+    await ldbDone(tx); return { ok: true };
+  }
+  if (method === 'POST' || (id && method === 'PUT')) {
+    const gid = id || `${Date.now().toString(36)}-${String((body.meta && body.meta.club) || 'gra').toLowerCase().replace(/ł/g, 'l').normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 40)}`;
+    const tx = db.transaction(['games', 'rows'], 'readwrite'), gs = tx.objectStore('games'), rs = tx.objectStore('rows');
+    const old = id ? await ldbReq(gs.get(gid)) : null;
+    if (id && !old) throw new Error('Nie ma takiej gry w pamięci przeglądarki');
+    const now = new Date().toISOString(), state = JSON.stringify(body.state);
+    let size = (old && old.rowSize) || 0;
+    for (const [t, list] of Object.entries(body.rows || {})) for (const r of list) { const j = JSON.stringify(r.data); if (!id) size += j.length; rs.put(j, [gid, t, String(r.id)]); } // rozmiar: z pełnego zapisu przy tworzeniu gry
+    for (const [t, ids] of Object.entries(body.removed || {})) for (const rid of ids) rs.delete([gid, t, String(rid)]);
+    gs.put({ id: gid, meta: { ...(old ? old.meta : { created: now }), ...body.meta, updated: now }, state, rowSize: size, size: size + state.length });
+    await ldbDone(tx);
+    return id ? { ok: true } : { id: gid };
+  }
+  throw new Error('Niedozwolona operacja');
+}
 async function api(url, method = 'GET', body) {
+  if (DB.local) return localApi(url, method, body);
+  url = url.replace(/^\//, ''); // ścieżka względna – działa też pod adresem z podkatalogiem
   const r = await fetch(url, { method, headers: body ? JSON_HDR : undefined, body: body ? JSON.stringify(body) : undefined, cache: 'no-store' });
   const j = await r.json().catch(() => ({}));
   if (!r.ok) throw new Error(j.error || `HTTP ${r.status}`);
@@ -79,7 +134,7 @@ function dbQueueSave() { clearTimeout(DB.timer); DB.timer = setTimeout(dbSaveNow
 async function dbSaveNow() {
   clearTimeout(DB.timer);
   if (!DB.on || !G || !G.gameId) return;
-  if (DB.saving) { DB.again = true; return; }
+  if (DB.saving) { DB.again = true; return DB.waiter || (DB.waiter = new Promise(r => { DB.wake = r; })); } // czeka na kolejny zapis, który obejmie bieżące zmiany
   DB.saving = true;
   const d = diffRows(false);
   // kopia zapasowa stanu raz na tydzień gry
@@ -92,10 +147,10 @@ async function dbSaveNow() {
     document.body.dataset.saved = new Date().toLocaleTimeString('pl-PL');
   } catch (e) {
     console.warn('Zapis do bazy nie powiódł się', e);
-    if (typeof toast === 'function') toast('Nie udało się zapisać gry – czy serwer (start.bat) działa?', 'bad');
+    if (typeof toast === 'function') toast(DB.local ? `Nie udało się zapisać gry w pamięci przeglądarki: ${esc(e.message || e)}` : 'Nie udało się zapisać gry – czy serwer (start.bat) działa?', 'bad');
   } finally {
     DB.saving = false;
-    if (DB.again) { DB.again = false; dbSaveNow(); }
+    if (DB.again) { DB.again = false; const wake = DB.wake; DB.waiter = DB.wake = null; dbSaveNow().then(wake, wake); }
   }
 }
 async function dbList() { return (await api('/api/games')).games; }

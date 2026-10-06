@@ -469,7 +469,7 @@ function check(cond, msg) { if (!cond) throw new Error('BŁĄD: ' + msg); consol
       G.date = '2026-12-01'; G.fimLift = null; fimDay(false); res.push(G.fimLift.decided[2026] === false && !G.fimLift.from && fimSuspended('RUS', '2027-05-01'));
       G.date = '2027-12-01'; fimDay(true); res.push(G.fimLift.from === '2028-01-01' && fimSuspended('RUS', '2027-12-31') && !fimSuspended('RUS', '2028-01-01') && /Koniec wojny/.test(G.messages['M' + (G.seq.msg - 1)].title));
       for (let i = m0; i < G.seq.msg; i++) delete G.messages['M' + i]; G.fimLift = keep; G.date = d; return res.every(Boolean); })()`), 'FIM: decyzja 1 grudnia – utrzymanie albo przywrócenie od 1 stycznia z komunikatem');
-    check(snap === snap2, `wczytany stan zgodny z zapisanym ${snap}`);
+    check(snap === snap2, `wczytany stan zgodny z zapisanym ${snap}${snap === snap2 ? '' : ' ≠ ' + snap2}`);
     check(await ev(`G.manager.children.filter(c => c.kidId || c.riderId).every(c => G.academy[c.kidId] || G.riders[c.riderId]) && !G.manager.photo`), 'dzieci menedżera zostają po wczytaniu gry (bez zapisanych zdjęć)');
     check(errors.length === 0, 'brak błędów JS w konsoli' + (errors.length ? ': ' + errors.slice(0, 3).join(' | ') : ''));
     console.log('Test przeglądarkowy zakończony. Zrzuty: tools/screenshots/');

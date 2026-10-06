@@ -168,7 +168,7 @@ function renderNav(section) {
   const badges = { skrzynka: unread(), medyczne: clubRiders(G.clubId).filter(r => r.injury).length };
   $('#nav').innerHTML = NAV.map(n => n === '-' ? '<hr>' :
     `<a href="#/${n[0]}" class="${section === n[0] || NAV_PARENT[section] === n[0] ? 'on' : ''}">${icon(n[2])}<span>${n[1]}</span>${badges[n[0]] ? `<span class="badge ${n[0] === 'skrzynka' ? 'info' : ''}">${badges[n[0]]}</span>` : ''}</a>`).join('') +
-    `<div class="save">${DB.on ? `Baza: saves/${esc(G.gameId || '')}.sqlite` : '<span class="warn">Brak serwera – gra nie jest zapisywana</span>'}</div>`;
+    `<div class="save">${DB.local ? 'Zapis w pamięci przeglądarki' : DB.on ? `Baza: saves/${esc(G.gameId || '')}.sqlite` : '<span class="warn">Brak serwera – gra nie jest zapisywana</span>'}</div>`;
 }
 function render() {
   if (!G) return renderStart();

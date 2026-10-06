@@ -40,7 +40,7 @@ function menuHtml() {
           <h3>Nowa gra</h3>
           <p>Stwórz postać menedżera: dane osobowe, doświadczenie i atrybuty, przeszłość żużlowa i – jeśli jeździłeś na żużlu – rola trenera. Na końcu wybierzesz klub.</p>
           <button class="btn primary lg" onclick="ACT.newCareer()">Nowa kariera ▸</button>
-          ${DB.on ? '<p class="small muted">Gra zapisuje się w pliku bazy SQLite (folder saves/) po każdym dniu i każdej zmianie.</p>' : '<p class="small warn">Serwer gry nie działa – uruchom grę przez start.bat, aby zapisywać postępy.</p>'}
+          ${DB.local ? '<p class="small muted">Gra zapisuje się w pamięci tej przeglądarki po każdym dniu i każdej zmianie. Wyczyszczenie danych witryny usuwa zapisy; na innym komputerze lub w innej przeglądarce ich nie będzie.</p>' : DB.on ? '<p class="small muted">Gra zapisuje się w pliku bazy SQLite (folder saves/) po każdym dniu i każdej zmianie.</p>' : '<p class="small warn">Serwer gry nie działa – uruchom grę przez start.bat, aby zapisywać postępy.</p>'}
         </div>
         ${last ? `<div class="panel stack"><h3>Kontynuuj</h3><div class="row">${crest({ id: last.clubId, name: last.club, short: last.clubShort || '?', colors: last.colors || ['#445', '#ccd'] })}<div><b>${esc(last.club)}</b><div class="small muted">${esc(last.manager || '')} · ${fmtDate(last.date)}</div></div></div>
           <button class="btn lg" onclick="ACT.loadGame('${last.id}')">Wczytaj ostatnią grę ▸</button></div>` : ''}
