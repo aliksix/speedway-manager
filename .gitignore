@@ -1,0 +1,15 @@
+# zapisy gier i dane robocze (nie są potrzebne do uruchomienia gry)
+saves/
+*.xlsx
+data/*
+!data/heat-tables/
+!data/qualification/
+# narzędzia: w repo tylko serwer gry i testy (bez skryptów pobierających dane, kalibracji, profili przeglądarki i zrzutów)
+tools/*
+!tools/server.js
+!tools/test-*.js
+!tools/test-*.cjs
+__pycache__/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm

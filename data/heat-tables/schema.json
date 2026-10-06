@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Speedway Manager heat schedules v1",
+  "type": "object",
+  "required": ["schemaVersion", "season", "verifiedAt", "tables", "competitionMappings", "sources"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "season": {"type": "integer"},
+    "verifiedAt": {"type": "string", "format": "date"},
+    "competitionMappings": {"type": "object"},
+    "sources": {"type": "array", "items": {"type": "object", "required": ["id", "url"], "properties": {"id": {"type": "string"}, "url": {"type": "string", "format": "uri"}}}},
+    "tables": {"type": "array", "items": {"$ref": "#/$defs/table"}}
+  },
+  "$defs": {
+    "selector": {
+      "oneOf": [
+        {"type":"object","required":["type","number"],"properties":{"type":{"const":"startNumber"},"number":{"type":"integer","minimum":1}}},
+        {"type":"object","required":["type","team","slot"],"properties":{"type":{"const":"teamSlot"},"team":{"type":"string"},"slot":{"type":"integer","minimum":1}}},
+        {"type":"object","required":["type","ranking","place"],"properties":{"type":{"const":"rank"},"ranking":{"type":"string"},"place":{"type":"integer","minimum":1}}},
+        {"type":"object","required":["type","heat","place"],"properties":{"type":{"const":"result"},"heat":{"type":"integer","minimum":0},"place":{"type":"integer","minimum":1,"maximum":4}}},
+        {"type":"object","required":["type","key"],"properties":{"type":{"const":"nomination"},"key":{"type":"string"}}}
+      ]
+    },
+    "entry": {
+      "type":"object", "required":["gate","helmet","team","participant"],
+      "properties": {
+        "gate":{"enum":["A","B","C","D",null]},
+        "helmet":{"enum":["czerwony","niebieski","biały","żółty",null]},
+        "team":{"type":["string","null"]},
+        "participant":{"$ref":"#/$defs/selector"}
+      }
+    },
+    "heat": {
+      "type":"object", "required":["no","phase","gatePolicy","entries"],
+      "properties": {
+        "no":{"type":"integer","minimum":0},
+        "phase":{"type":"string"},
+        "gatePolicy":{"enum":["fixed","rider-choice","ballot","league-nominated-set"]},
+        "gradingAfter":{"type":"boolean"},
+        "entries":{"type":"array","minItems":4,"maxItems":4,"items":{"$ref":"#/$defs/entry"}}
+      }
+    },
+    "table": {
+      "type":"object", "required":["id","name","season","heatCount","points","heats","sources"],
+      "properties": {
+        "id":{"type":"string","pattern":"^[a-z0-9-]+$"},
+        "name":{"type":"string"},
+        "season":{"type":"integer"},
+        "heatCount":{"type":"integer","minimum":1},
+        "points":{"type":"array","minItems":4,"maxItems":4,"items":{"type":"number"}},
+        "heats":{"type":"array","minItems":1,"items":{"$ref":"#/$defs/heat"}},
+        "sources":{"type":"array","minItems":1,"items":{"type":"object","required":["id","locator"]}}
+      }
+    }
+  }
+}

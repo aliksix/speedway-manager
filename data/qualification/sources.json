@@ -1,0 +1,130 @@
+[
+ {
+  "id": "pzm-imp",
+  "title": "Regulamin Mistrzostw Polski i Nagród PZM 2026 – II. IMP i MIMP",
+  "url": "https://pzm.pl/pliki/zg/zuzel/2026/09-imp-2026v2.pdf",
+  "local": "data/heat-tables/sources/imp-2026.pdf",
+  "sha256": "b78740bb2144e289395c230c35a6577f7f646b047e87772167d282adea5c2afa"
+ },
+ {
+  "id": "pzm-dmpj",
+  "title": "Regulamin Mistrzostw Polski i Nagród PZM 2026 – V. DMPJ",
+  "url": "https://pzm.pl/pliki/zg/zuzel/2026/13-dmpj-2026.pdf",
+  "local": "data/heat-tables/sources/dmpj-2026.pdf",
+  "sha256": "6a168a397c24252bbe3dc9046e0f34a02c2373157b3af4cab48a940285ed0710"
+ },
+ {
+  "id": "pzm-pary",
+  "title": "Regulamin Mistrzostw Polski i Nagród PZM 2026 – VI. MPPK i MMPPK",
+  "url": "https://pzm.pl/pliki/zg/zuzel/2026/14-pary-2026.pdf",
+  "local": "data/heat-tables/sources/pary-2026.pdf",
+  "sha256": "e1380a6bd85c1dbdf256c3c00c27ccf9a363a792bdd275dfcb0821e0360a6e6e"
+ },
+ {
+  "id": "pzm-kaski",
+  "title": "Regulamin Mistrzostw Polski i Nagród PZM 2026 – VII. Złoty, Srebrny i Brązowy Kask",
+  "url": "https://pzm.pl/pliki/zg/zuzel/2026/15-kaski-2026.pdf",
+  "local": "data/heat-tables/sources/kaski-2026.pdf",
+  "sha256": "12b311d5defcc1dccb7375e03bb8cfc902de740162293d5dd2dae3279093aa52"
+ },
+ {
+  "id": "fime-2026",
+  "title": "FIM Europe Track Racing Rules 2026 (9.02.2026)",
+  "url": "https://www.fim-europe.com/wp-content/uploads/2026/02/2-2026-Track-Racing-Rules-09.02.26.pdf",
+  "local": "data/heat-tables/sources/fime-2026.pdf",
+  "sha256": "661a82db3dbfb3d624764786011cdf1ebc6c484852cb48f10a2290c5423fb40e"
+ },
+ {
+  "id": "fim-sgp",
+  "title": "FIM Speedway Grand Prix World Championship, SGP2, SGP3, SGP4 – regulamin (link oficjalny opisany jako 2026)",
+  "url": "https://www.fim-moto.com/fileadmin/user_upload/Documents/2025/2025_FIM_Speedway_Grand_Prix_World_Championship_regulations.pdf",
+  "local": "data/heat-tables/sources/sgp-current.pdf",
+  "sha256": "8af6a9a4dac2455e6556e6d039dc2ae513fdaafed8fe6e8e980f90ea3b346b62"
+ },
+ {
+  "id": "fim-swc",
+  "title": "FIM Speedway World Cup regulations 2026",
+  "url": "https://www.fim-moto.com/fileadmin/FIM_Speedway_World_Cup_regulations_2026.pdf",
+  "local": "data/heat-tables/sources/swc-2026.pdf",
+  "sha256": "40cfdae0888f0fad40b22cc2ca422763b8c375c17d597c6623d41079acbf9fe1"
+ },
+ {
+  "id": "fim-son",
+  "title": "FIM Speedway of Nations / SoN2 regulations 2026",
+  "url": "https://www.fim-moto.com/fileadmin/user_upload/Documents/2026/2026_FIM_Speedway_of_Nations_regulations.pdf",
+  "local": "data/heat-tables/sources/son-2026.pdf",
+  "sha256": "5a24a56a82fb7d99e62109f0195b4cf65267492af3256e62c5e9d20e3047df6f"
+ },
+ {
+  "id": "dmu-2025",
+  "title": "DMU Speedway Reglement 2025 (ver. 2, 31.03.2025)",
+  "url": "https://dmusport.dk/wp-content/uploads/2025/03/SPW-reglement-2025-ver-2-31-03-25.pdf",
+  "local": "tools/sources/regulaminy/dmu_speedway_reglement_2025.pdf",
+  "sha256": "329c4ccd4ce8c929c97b007dec53e0a510295194d8c9b17daafc3c5fc5b8435a"
+ },
+ {
+  "id": "dmu-dm-2025",
+  "title": "DM-finalen 2025 w Brovst – finał jako kwalifikacja EM/VM 2026, dzika karta GP Danii",
+  "url": "https://www.visitdenmark.dk/danmark/explore/dm-i-speedway-2025-gdk1150036"
+ },
+ {
+  "id": "speedwaynews-zk-2025",
+  "title": "Dla kogo Grand Prix i SEC? Czas na Złoty Kask (20.04.2025)",
+  "url": "https://speedwaynews.pl/zuzel/dla-kogo-grand-prix-i-sec-czas-na-zloty-kask/"
+ },
+ {
+  "id": "sf-zk-2024",
+  "title": "Złoty Kask wyłonił reprezentantów Polski w eliminacjach do GP i SEC (1.04.2024)",
+  "url": "https://sportowefakty.wp.pl/zuzel/1114829/zuzel-zloty-kask-wylonil-reprezentantow-polski-w-eliminacjach-do-gp-i-sec"
+ },
+ {
+  "id": "sf-sk-2026",
+  "title": "Zasady nominacji do Złotego, Srebrnego i Brązowego Kasku (speedwaynews.pl)",
+  "url": "https://speedwaynews.pl/aktualnosci/item/68912-znamy-zasady-nominacji-zawodnikow-do-zawodow-o-zloty-srebrny-i-brazowy-kask-jest-regulamin"
+ },
+ {
+  "id": "wiki-sgpq-2026",
+  "title": "2026 Speedway Grand Prix Qualification",
+  "url": "https://en.wikipedia.org/wiki/2026_Speedway_Grand_Prix_Qualification"
+ },
+ {
+  "id": "wiki-sgpq-2027",
+  "title": "2027 Speedway Grand Prix Qualification",
+  "url": "https://en.wikipedia.org/wiki/2027_Speedway_Grand_Prix_Qualification"
+ },
+ {
+  "id": "wiki-sgp2-2026",
+  "title": "2026 SGP2",
+  "url": "https://en.wikipedia.org/wiki/2026_SGP2"
+ },
+ {
+  "id": "wiki-bf-2026",
+  "title": "2026 British Speedway Championship",
+  "url": "https://en.wikipedia.org/wiki/2026_British_Speedway_Championship"
+ },
+ {
+  "id": "bs-british-final",
+  "title": "British Final – britishspeedway.co.uk",
+  "url": "https://britishspeedway.co.uk/team/british-final/"
+ },
+ {
+  "id": "svemo-sm-2025",
+  "title": "Startlista till SM-Kval 2025 – Svemo",
+  "url": "https://svemo.se/nyheter/startlista-till-sm-kval-2025"
+ },
+ {
+  "id": "svemo-regler",
+  "title": "Svemo – regelbok Trackracing (10.6 SM, 10.7 JSM)",
+  "url": "https://regler.svemo.se/regelbocker/trackracing"
+ },
+ {
+  "id": "plwiki-sgp-2026",
+  "title": "Grand Prix na Żużlu 2026 – dzika karta i rezerwowi toru (pl.wikipedia.org)",
+  "url": "https://pl.wikipedia.org/wiki/Grand_Prix_na_%C5%BBu%C5%BClu_2026"
+ },
+ {
+  "id": "wiki-sgp-2025-rounds",
+  "title": "2025 Speedway Grand Prix – strony rund (en.wikipedia.org), np. 2025 Speedway Grand Prix of Poland",
+  "url": "https://en.wikipedia.org/wiki/2025_Speedway_Grand_Prix_of_Poland"
+ }
+]

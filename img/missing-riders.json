@@ -1,0 +1,1437 @@
+[
+  {
+    "id": 67,
+    "name": "Robert Downar",
+    "league": "PGE",
+    "club": "PRES Grupa Deweloperska Toruń",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 72,
+    "name": "Borys Słomczewski",
+    "league": "PGE",
+    "club": "PRES Grupa Deweloperska Toruń",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 73,
+    "name": "Cezary Mercik",
+    "league": "PGE",
+    "club": "Krono-Plast Włókniarz Częstochowa",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 85,
+    "name": "Maksymilian Kręcisz",
+    "league": "PGE",
+    "club": "Stelmet Falubaz Zielona Góra",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 88,
+    "name": "Oliwier Kazimierski",
+    "league": "PGE",
+    "club": "Bayersystem GKM Grudziądz",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 95,
+    "name": "Szymon Wierzchowski",
+    "league": "PGE",
+    "club": "Orlen Oil Motor Lublin",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 96,
+    "name": "Szymon Wolski",
+    "league": "PGE",
+    "club": "Krono-Plast Włókniarz Częstochowa",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 109,
+    "name": "Victor Palovaara",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 132,
+    "name": "Mathias Thörnblom",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 133,
+    "name": "Rasmus Karlsson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 134,
+    "name": "Kim Nilsson",
+    "league": "KLZ",
+    "club": "Trans MF Landshut Devils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 148,
+    "name": "Christoffer Selvin",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 149,
+    "name": "Daniel Henderson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 150,
+    "name": "Dante Johansson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 152,
+    "name": "Eddie Bock",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 153,
+    "name": "Emil Millberg",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 154,
+    "name": "Erik Persson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 156,
+    "name": "Jacob Jensen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 157,
+    "name": "Jevgenijs Kostigovs",
+    "league": "KLZ",
+    "club": "Optibet Lokomotiv Daugavpils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 159,
+    "name": "Joel Andersson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 160,
+    "name": "Jonathan Ejnermark",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 161,
+    "name": "Jonny Eriksson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 163,
+    "name": "Leo Klasson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 164,
+    "name": "Ludvig Selvin",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 166,
+    "name": "Nicklas Aagaard",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 167,
+    "name": "Noel Wahlquist",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 169,
+    "name": "Rasmus M Pedersen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 170,
+    "name": "Robin Aspegren",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 171,
+    "name": "Rune Thorst",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 172,
+    "name": "Sam Jensen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 173,
+    "name": "Sammy Van Dyck",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 177,
+    "name": "Danny King",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 178,
+    "name": "Ludvig Lindgren",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 179,
+    "name": "Rene Bach",
+    "league": "KLZ",
+    "club": "Optibet Lokomotiv Daugavpils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 181,
+    "name": "Tomas H Jonasson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 194,
+    "name": "Alfons Wiltander",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 195,
+    "name": "Avon Van Dyck",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 198,
+    "name": "Kasperi Ahvenainen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 222,
+    "name": "Krystian Buczyński",
+    "league": "2E",
+    "club": "Fogo Unia Leszno",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 223,
+    "name": "Krzysztof Skorczyk",
+    "league": "2E",
+    "club": "Fogo Unia Leszno",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 234,
+    "name": "Jakub Woźnik",
+    "league": "2E",
+    "club": "Cellfast Wilki Krosno",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 238,
+    "name": "Mateusz Latała",
+    "league": "2E",
+    "club": "Hunters PSŻ Poznań",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 245,
+    "name": "Fabian Ragus",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 258,
+    "name": "Przemysław Liszka",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 268,
+    "name": "Oleksandr Loktaev",
+    "league": "2E",
+    "club": "Abramczyk Polonia Bydgoszcz",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 269,
+    "name": "Daniils Kolodinskis",
+    "league": "KLZ",
+    "club": "Optibet Lokomotiv Daugavpils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 294,
+    "name": "Olegs Mihailovs",
+    "league": "KLZ",
+    "club": "Optibet Lokomotiv Daugavpils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 299,
+    "name": "Kenneth Hansen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 301,
+    "name": "Matteo Boncinelli",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 303,
+    "name": "Nicolò Percotti",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 309,
+    "name": "Truls Kamhaug",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 310,
+    "name": "Valentin Grobauer",
+    "league": "KLZ",
+    "club": "Trans MF Landshut Devils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 311,
+    "name": "Michael Palm Toft",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 313,
+    "name": "Paweł Trześniewski",
+    "league": "PGE",
+    "club": "Innpro ROW Rybnik",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 317,
+    "name": "Ben Iken",
+    "league": "KLZ",
+    "club": "Trans MF Landshut Devils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 328,
+    "name": "Lukas Fienhage",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 329,
+    "name": "Patryk Rolnicki",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 333,
+    "name": "Denis Stojš",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 335,
+    "name": "Gino Manzares",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 340,
+    "name": "Lasse Bjerre",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach (Ekstraliga, FIM, British Speedway, Wikipedia); dostępne zdjęcia nie nadają się na portret."
+  },
+  {
+    "id": 342,
+    "name": "Michael Thyme",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 343,
+    "name": "Nicklas Porsing",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 344,
+    "name": "Patrick Kruse",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 349,
+    "name": "Kevin Wölbert",
+    "league": "KLZ",
+    "club": "Trans MF Landshut Devils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 351,
+    "name": "Linus Sundström",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 356,
+    "name": "Bjarne Pedersen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach (Ekstraliga, FIM, British Speedway, Wikipedia); dostępne zdjęcia nie nadają się na portret."
+  },
+  {
+    "id": 365,
+    "name": "Adam Kameník",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 366,
+    "name": "Aleks Lundquist",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 368,
+    "name": "Alexander Jakobsson Sundkvist",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 369,
+    "name": "Andreas Jensen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 370,
+    "name": "Benny Johansson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 371,
+    "name": "Bruno Belan",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 372,
+    "name": "Charlie Netz",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 373,
+    "name": "Chris Wænnerstrøm",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 374,
+    "name": "Damian Dróżdż",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 375,
+    "name": "Daniel Hauge Sjöström",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 376,
+    "name": "Elliot Carlmark",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 377,
+    "name": "Emil Pørtner",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 378,
+    "name": "Hannah Grunwald",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 379,
+    "name": "Harrison Ryan",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 380,
+    "name": "Harry Lundahl",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 382,
+    "name": "Henric Fernström",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 383,
+    "name": "Isak Lundquist",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 384,
+    "name": "Jacob Hook",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 387,
+    "name": "Johannes Stark",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 389,
+    "name": "Jørgen Lystad",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 391,
+    "name": "Marius Nielsen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 393,
+    "name": "Mika Meijer",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 394,
+    "name": "Milo Sjö",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 395,
+    "name": "Nikolaj Busk Jakobsen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 396,
+    "name": "Patrick Hamilton",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 397,
+    "name": "Richard Geyer",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 398,
+    "name": "Sebastian Johansson Glimfjäll",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 399,
+    "name": "Silas Hoegh",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 400,
+    "name": "Steven Mauer",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 401,
+    "name": "Stian Nielsen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 402,
+    "name": "Theo Bergkvist",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 409,
+    "name": "Leon Kramer",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 411,
+    "name": "Roman Kapustin",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 412,
+    "name": "Sebastian Kössler",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 413,
+    "name": "Jo Saetre",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 414,
+    "name": "Jimmy Hörnell Lidfalk",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 418,
+    "name": "Josef Kreuzberger",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 419,
+    "name": "Filip Jäger",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 420,
+    "name": "Sebastiaan Reitsma",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 422,
+    "name": "Dastin Łukaszczyk",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 424,
+    "name": "Denis Andrzejczak",
+    "league": "KLZ",
+    "club": "Pronergy Polonia Piła",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 426,
+    "name": "Jakub Breński",
+    "league": "KLZ",
+    "club": "Pronergy Polonia Piła",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 427,
+    "name": "Ksawery Słomski",
+    "league": "KLZ",
+    "club": "Ultrapur Start Gniezno",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 429,
+    "name": "Patryk Budniak",
+    "league": "KLZ",
+    "club": "Ultrapur Start Gniezno",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 431,
+    "name": "Adrian Saks",
+    "league": "KLZ",
+    "club": "Ultrapur Start Gniezno",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 434,
+    "name": "Jakub Fabisz",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 435,
+    "name": "Jędrzej Chmura",
+    "league": "KLZ",
+    "club": "Wybrzeże Gdańsk",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 436,
+    "name": "Kacper Sajdak",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 438,
+    "name": "Miłosz Duda",
+    "league": "KLZ",
+    "club": "Speedway Kraków",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 439,
+    "name": "Oskar Stępień",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 440,
+    "name": "Robert Roszak",
+    "league": "KLZ",
+    "club": "Ultrapur Start Gniezno",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 442,
+    "name": "Marlon Hegener",
+    "league": "KLZ",
+    "club": "Trans MF Landshut Devils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 444,
+    "name": "Dawid Rempała",
+    "league": "KLZ",
+    "club": "Speedway Kraków",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 446,
+    "name": "Lars Skupień",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 450,
+    "name": "Billy Janniro",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 452,
+    "name": "Caleb Chappell",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 454,
+    "name": "Finn Reed",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 456,
+    "name": "Hayden Brookland",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 457,
+    "name": "Hubert Łęgowik",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 458,
+    "name": "Jack Morrison",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 460,
+    "name": "Jani Änkiläinen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 461,
+    "name": "Jere Kujanpää",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 462,
+    "name": "Jere Lehtonen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 463,
+    "name": "Jonne Suojanen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 464,
+    "name": "Kauri Chapman",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 466,
+    "name": "Max Ruml",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 467,
+    "name": "Mika Helin",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 468,
+    "name": "Noah Urda",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 469,
+    "name": "Omar Vezzaro",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 471,
+    "name": "Roni Niemelä",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 472,
+    "name": "Ryan Colvin",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 473,
+    "name": "Seppo Pitkämäki",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 475,
+    "name": "Stanisław Melnyczuk",
+    "league": "KLZ",
+    "club": "OK Kolejarz Opole",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 476,
+    "name": "Tino Bouin",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 479,
+    "name": "Kjastas Puodžuks",
+    "league": "KLZ",
+    "club": "Optibet Lokomotiv Daugavpils",
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 485,
+    "name": "Hans-Olof Olsén",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 486,
+    "name": "Emil Lingvall",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 487,
+    "name": "Mats Svensson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 488,
+    "name": "Martin Börjegren",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 489,
+    "name": "Isak Dekkerhus",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 490,
+    "name": "Martin Hellström",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 492,
+    "name": "Michal Knapp",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 494,
+    "name": "Anton Larsson Widén",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 495,
+    "name": "Niek Schaap",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 496,
+    "name": "Tobias Nordkvist",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 498,
+    "name": "Annica Karlsson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 506,
+    "name": "Lee Harrison",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 512,
+    "name": "Connor King",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach (Ekstraliga, FIM, British Speedway, Wikipedia); dostępne zdjęcia nie nadają się na portret."
+  },
+  {
+    "id": 516,
+    "name": "Morgan Williams",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 520,
+    "name": "Albin Hansson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 521,
+    "name": "Robin Häggström",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 522,
+    "name": "Laylen Richardson",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 524,
+    "name": "Aarni Heikkilä",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 525,
+    "name": "Adrian Seijas",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 526,
+    "name": "Alex Acuna",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 528,
+    "name": "Carlos Eber Ampugnani",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 531,
+    "name": "Coty Garcia",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 533,
+    "name": "Damian Boyero",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 534,
+    "name": "Daniel Gappmaier",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 535,
+    "name": "Elliot Kelly",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 537,
+    "name": "Facundo Cuello",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 538,
+    "name": "Fausto Castillo",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 539,
+    "name": "Fernando Olivera",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 540,
+    "name": "Giovanni Nichele",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 541,
+    "name": "Gonzalo Racosta",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 543,
+    "name": "Harley Freeman",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 544,
+    "name": "Jack Kingston",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 546,
+    "name": "Jimmy Olsén",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 547,
+    "name": "Joaquin Allivellatore",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 548,
+    "name": "Joaquin Felix",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 549,
+    "name": "Jonathan Iturre",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 550,
+    "name": "Joni Laukkanen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 551,
+    "name": "Jooa Partanen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 552,
+    "name": "Julian Kuny",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 553,
+    "name": "Julio Romano",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 555,
+    "name": "Kevin Melato",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 557,
+    "name": "Leonardo Vicente",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 558,
+    "name": "Liam Greens",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 559,
+    "name": "Markus Lill",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 560,
+    "name": "Martin Aristegui",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 561,
+    "name": "Matias Galdos",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 562,
+    "name": "Max Koivula",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 563,
+    "name": "Milton Besagonil",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 564,
+    "name": "Nicolas Gomez",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 565,
+    "name": "Nicolas Marquez",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 566,
+    "name": "Niilo Vuolas",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 567,
+    "name": "Niklas Säyrio",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 568,
+    "name": "Patricia Erhart",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 569,
+    "name": "Philip Ekfeldt",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 570,
+    "name": "Santiago Gallardo",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 571,
+    "name": "Santiago Martinez",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 572,
+    "name": "Sebastian Aviles",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 573,
+    "name": "Sebastian Clemente",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 575,
+    "name": "Tilen Bračko",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 576,
+    "name": "Tim Arnold",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 577,
+    "name": "Toni Hyyryläinen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 578,
+    "name": "Topi Mustonen",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 582,
+    "name": "Rami Systä",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  },
+  {
+    "id": 583,
+    "name": "Seppo Siira",
+    "league": null,
+    "club": null,
+    "reason": "Brak portretu w sprawdzonych źródłach: Ekstraliga 2021–2026, FIM Speedway, British Speedway, Wikipedia/Commons (2.10.2026)."
+  }
+]

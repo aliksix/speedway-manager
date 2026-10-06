@@ -1,0 +1,1104 @@
+{
+  "riders": {
+    "1": {
+      "name": "Bartosz Zmarzlik",
+      "file": "img/riders/bartosz-zmarzlik.webp"
+    },
+    "2": {
+      "name": "Brady Kurtz",
+      "file": "img/riders/brady-kurtz.png"
+    },
+    "3": {
+      "name": "Patryk Dudek",
+      "file": "img/riders/patryk-dudek.png"
+    },
+    "4": {
+      "name": "Artem Łaguta",
+      "file": "img/riders/artem-laguta.webp"
+    },
+    "5": {
+      "name": "Jack Holder",
+      "file": "img/riders/jack-holder.png"
+    },
+    "6": {
+      "name": "Robert Lambert",
+      "file": "img/riders/robert-lambert.png"
+    },
+    "7": {
+      "name": "Fredrik Lindgren",
+      "file": "img/riders/fredrik-lindgren.webp"
+    },
+    "8": {
+      "name": "Daniel Bewley",
+      "file": "img/riders/daniel-bewley.webp"
+    },
+    "9": {
+      "name": "Leon Madsen",
+      "file": "img/riders/leon-madsen.png"
+    },
+    "10": {
+      "name": "Mikkel Michelsen",
+      "file": "img/riders/mikkel-michelsen.png"
+    },
+    "11": {
+      "name": "Jason Doyle",
+      "file": "img/riders/jason-doyle.png"
+    },
+    "12": {
+      "name": "Emil Sayfutdinov",
+      "file": "img/riders/emil-sajfutdinow.png"
+    },
+    "13": {
+      "name": "Michael Jepsen Jensen",
+      "file": "img/riders/michael-jepsen-jensen.png"
+    },
+    "14": {
+      "name": "Max Fricke",
+      "file": "img/riders/max-fricke.png"
+    },
+    "15": {
+      "name": "Dominik Kubera",
+      "file": "img/riders/dominik-kubera.png"
+    },
+    "16": {
+      "name": "Anders Thomsen",
+      "file": "img/riders/anders-thomsen.png"
+    },
+    "17": {
+      "name": "Piotr Pawlicki",
+      "file": "img/riders/piotr-pawlicki.png"
+    },
+    "18": {
+      "name": "Maciej Janowski",
+      "file": "img/riders/maciej-janowski.webp"
+    },
+    "19": {
+      "name": "Kacper Woryna",
+      "file": "img/riders/kacper-woryna.webp"
+    },
+    "20": {
+      "name": "Przemysław Pawlicki",
+      "file": "img/riders/przemyslaw-pawlicki.png"
+    },
+    "21": {
+      "name": "Maksym Drabik",
+      "file": "img/riders/maksym-drabik.webp"
+    },
+    "22": {
+      "name": "Janusz Kołodziej",
+      "file": "img/riders/janusz-kolodziej.png"
+    },
+    "23": {
+      "name": "Andžejs Ļebedevs",
+      "file": "img/riders/andzejs-lebedevs.png"
+    },
+    "24": {
+      "name": "Szymon Woźniak",
+      "file": "img/riders/szymon-wozniak.png"
+    },
+    "25": {
+      "name": "Rohan Tungate",
+      "file": "img/riders/rohan-tungate.png"
+    },
+    "26": {
+      "name": "Kai Huckenbeck",
+      "file": "img/riders/kai-huckenbeck.png"
+    },
+    "27": {
+      "name": "Rasmus Jensen",
+      "file": "img/riders/rasmus-jensen.png"
+    },
+    "28": {
+      "name": "Mateusz Cierniak",
+      "file": "img/riders/mateusz-cierniak.webp"
+    },
+    "29": {
+      "name": "Wiktor Przyjemski",
+      "file": "img/riders/wiktor-przyjemski.png"
+    },
+    "30": {
+      "name": "Martin Vaculik",
+      "file": "img/riders/martin-vaculik.webp"
+    },
+    "31": {
+      "name": "Tai Woffinden",
+      "file": "img/riders/tai-woffinden.png"
+    },
+    "32": {
+      "name": "Jaimon Lidsey",
+      "file": "img/riders/jaimon-lidsey.png"
+    },
+    "33": {
+      "name": "Ben Cook",
+      "file": "img/riders/benjamin-cook.png"
+    },
+    "34": {
+      "name": "Jacob Thorssell",
+      "file": "img/riders/jacob-thorssell.png"
+    },
+    "35": {
+      "name": "Ryan Douglas",
+      "file": "img/riders/ryan-douglas.png"
+    },
+    "36": {
+      "name": "Bartosz Smektała",
+      "file": "img/riders/bartosz-smektala.png"
+    },
+    "37": {
+      "name": "Tobiasz Musielak",
+      "file": "img/riders/tobiasz-musielak.png"
+    },
+    "38": {
+      "name": "Dimitri Bergé",
+      "file": "img/riders/dimitri-berge.png"
+    },
+    "39": {
+      "name": "David Bellego",
+      "file": "img/riders/david-bellego.png"
+    },
+    "40": {
+      "name": "Frederik Jakobsen",
+      "file": "img/riders/frederik-jakobsen.png"
+    },
+    "41": {
+      "name": "Mads Hansen",
+      "file": "img/riders/mads-hansen.png"
+    },
+    "42": {
+      "name": "Chris Holder",
+      "file": "img/riders/chris-holder.png"
+    },
+    "43": {
+      "name": "Luke Becker",
+      "file": "img/riders/luke-becker.png"
+    },
+    "44": {
+      "name": "Krzysztof Buczkowski",
+      "file": "img/riders/krzysztof-buczkowski.png"
+    },
+    "45": {
+      "name": "Timo Lahti",
+      "file": "img/riders/timo-lahti.png"
+    },
+    "46": {
+      "name": "Nicolai Heiselberg",
+      "file": "img/riders/nicolai-heiselberg.png"
+    },
+    "47": {
+      "name": "Jonas Knudsen",
+      "file": "img/riders/jonas-knudsen.png"
+    },
+    "48": {
+      "name": "Josh Pickering",
+      "file": "img/riders/joshua-pickering.png"
+    },
+    "49": {
+      "name": "Jan Kvěch",
+      "file": "img/riders/jan-kvech.png"
+    },
+    "50": {
+      "name": "Tom Brennan",
+      "file": "img/riders/tom-brennan.png"
+    },
+    "51": {
+      "name": "Gleb Chugunov",
+      "file": "img/riders/gleb-chugunov.png"
+    },
+    "52": {
+      "name": "Vadim Tarasenko",
+      "file": "img/riders/vadim-tarasenko.png"
+    },
+    "53": {
+      "name": "Nicki Pedersen",
+      "file": "img/riders/nicki-pedersen.png"
+    },
+    "54": {
+      "name": "Keynan Rew",
+      "file": "img/riders/keynan-rew.png"
+    },
+    "55": {
+      "name": "Jan Przanowski",
+      "file": "img/riders/jan-przanowski.png"
+    },
+    "56": {
+      "name": "Kacper Witrykus",
+      "file": "img/riders/kacper-witrykus.png"
+    },
+    "57": {
+      "name": "Nikodem Mikołajczyk",
+      "file": "img/riders/nikodem-mikolajczyk.png"
+    },
+    "58": {
+      "name": "Emil Breum",
+      "file": "img/riders/emil-breum.png"
+    },
+    "59": {
+      "name": "Jarosław Hampel",
+      "file": "img/riders/jaroslaw-hampel.png"
+    },
+    "60": {
+      "name": "Norick Blödorn",
+      "file": "img/riders/norick-bloedorn.png"
+    },
+    "61": {
+      "name": "Mathias Pollestad",
+      "file": "img/riders/mathias-pollestad.png"
+    },
+    "62": {
+      "name": "Francis Gusts",
+      "file": "img/riders/francis-gusts.png"
+    },
+    "63": {
+      "name": "Damian Miller",
+      "file": "img/riders/damian-miller.png"
+    },
+    "64": {
+      "name": "Dawid Cepielik",
+      "file": "img/riders/dawid-cepielik.webp"
+    },
+    "65": {
+      "name": "Kacper Szarszewski",
+      "file": "img/riders/kacper-szarszewski.png"
+    },
+    "66": {
+      "name": "Paweł Wyczyszczok",
+      "file": "img/riders/pawel-wyczyszczok.png"
+    },
+    "68": {
+      "name": "Alan Ciurzyński",
+      "file": "img/riders/alan-ciurzynski.png"
+    },
+    "69": {
+      "name": "Bartosz Jaworski",
+      "file": "img/riders/bartosz-jaworski.webp"
+    },
+    "70": {
+      "name": "Bartosz Rudolf",
+      "file": "img/riders/bartosz-rudolf.png"
+    },
+    "71": {
+      "name": "Bartosz Śmigielski",
+      "file": "img/riders/bartosz-smigielski.png"
+    },
+    "74": {
+      "name": "Dawid Rozpędek",
+      "file": "img/riders/dawid-rozpedek.png"
+    },
+    "75": {
+      "name": "Eryk Farański",
+      "file": "img/riders/eryk-faranski.png"
+    },
+    "76": {
+      "name": "Filip Kumaszka",
+      "file": "img/riders/filip-kumaszka.png"
+    },
+    "77": {
+      "name": "Hubert Gibki",
+      "file": "img/riders/hubert-gibki.png"
+    },
+    "78": {
+      "name": "Hubert Jabłoński",
+      "file": "img/riders/hubert-jablonski.png"
+    },
+    "79": {
+      "name": "Igor Nabiałkowski",
+      "file": "img/riders/igor-nabialkowski.png"
+    },
+    "80": {
+      "name": "Kacper Tkocz",
+      "file": "img/riders/kacper-tkocz.png"
+    },
+    "81": {
+      "name": "Kajetan Kupiec",
+      "file": "img/riders/kajetan-kupiec.png"
+    },
+    "82": {
+      "name": "Kamil Winkler",
+      "file": "img/riders/kamil-winkler.png"
+    },
+    "83": {
+      "name": "Krzysztof Lewandowski",
+      "file": "img/riders/krzysztof-lewandowski.png"
+    },
+    "84": {
+      "name": "Leon Szlegiel",
+      "file": "img/riders/leon-szlegiel.png"
+    },
+    "86": {
+      "name": "Mateusz Łopuski",
+      "file": "img/riders/mateusz-lopuski.png"
+    },
+    "87": {
+      "name": "Mikołaj Krok",
+      "file": "img/riders/mikolaj-krok.png"
+    },
+    "89": {
+      "name": "Oskar Chatłas",
+      "file": "img/riders/oskar-chatlas.png"
+    },
+    "90": {
+      "name": "Oskar Rumiński",
+      "file": "img/riders/oskar-ruminski.png"
+    },
+    "91": {
+      "name": "Paweł Caban",
+      "file": "img/riders/pawel-caban.png"
+    },
+    "92": {
+      "name": "Paweł Czaus",
+      "file": "img/riders/pawel-czaus.webp"
+    },
+    "93": {
+      "name": "Radosław Kowalski",
+      "file": "img/riders/radoslaw-kowalski.png"
+    },
+    "94": {
+      "name": "Szymon Tomaszewski",
+      "file": "img/riders/szymon-tomaszewski.png"
+    },
+    "97": {
+      "name": "Kacper Rychliński",
+      "file": "img/riders/kacper-rychlinski.png"
+    },
+    "98": {
+      "name": "Mateusz Świdnicki",
+      "file": "img/riders/mateusz-swidnicki.png"
+    },
+    "99": {
+      "name": "Nazar Parnitskyi",
+      "file": "img/riders/nazar-parnitskyi.png"
+    },
+    "100": {
+      "name": "Václav Milík",
+      "file": "img/riders/vaclav-milik.png"
+    },
+    "101": {
+      "name": "Oskar Paluch",
+      "file": "img/riders/oskar-paluch.webp"
+    },
+    "102": {
+      "name": "Damian Ratajczak",
+      "file": "img/riders/damian-ratajczak.png"
+    },
+    "103": {
+      "name": "Jakub Krawczyk",
+      "file": "img/riders/jakub-krawczyk.png"
+    },
+    "104": {
+      "name": "Antti Vuolas",
+      "file": "img/riders/antti-vuolas.png"
+    },
+    "105": {
+      "name": "Leon Flint",
+      "file": "img/riders/leon-flint.png"
+    },
+    "106": {
+      "name": "Benjamin Basso",
+      "file": "img/riders/benjamin-basso.png"
+    },
+    "107": {
+      "name": "Kevin Małkiewicz",
+      "file": "img/riders/kevin-malkiewicz.png"
+    },
+    "108": {
+      "name": "Marko Levishyn",
+      "file": "img/riders/marko-levishyn.png"
+    },
+    "110": {
+      "name": "Oskar Fajfer",
+      "file": "img/riders/oskar-fajfer.png"
+    },
+    "111": {
+      "name": "Mikkel Andersen",
+      "file": "img/riders/mikkel-andersen.png"
+    },
+    "113": {
+      "name": "Kevin Juhl Pedersen",
+      "file": "img/riders/kevin-juhl-pedersen.png"
+    },
+    "117": {
+      "name": "Nicolai Klindt",
+      "file": "img/riders/nicolai-klindt.png"
+    },
+    "119": {
+      "name": "Niels-Kristian Iversen",
+      "file": "img/riders/niels-kristian-iversen.png"
+    },
+    "120": {
+      "name": "Jakub Miśkowiak",
+      "file": "img/riders/jakub-miskowiak.png"
+    },
+    "121": {
+      "name": "Adam Bednář",
+      "file": "img/riders/adam-bednar.png"
+    },
+    "122": {
+      "name": "Bartłomiej Kowalski",
+      "file": "img/riders/bartlomiej-kowalski.png"
+    },
+    "123": {
+      "name": "Wiktor Lampart",
+      "file": "img/riders/wiktor-lampart.png"
+    },
+    "126": {
+      "name": "Filip Hjelmland",
+      "file": "img/riders/filip-hjelmland.png"
+    },
+    "128": {
+      "name": "Zach Cook",
+      "file": "img/riders/zach-cook.png"
+    },
+    "136": {
+      "name": "Bartosz Bańbor",
+      "file": "img/riders/bartosz-banbor.webp"
+    },
+    "137": {
+      "name": "Grzegorz Zengota",
+      "file": "img/riders/grzegorz-zengota.png"
+    },
+    "138": {
+      "name": "Casper Henriksson",
+      "file": "img/riders/casper-henriksson.png"
+    },
+    "139": {
+      "name": "Marcus Birkemose",
+      "file": "img/riders/marcus-birkemose.png"
+    },
+    "140": {
+      "name": "Anders Rowe",
+      "file": "img/riders/anders-rowe.png"
+    },
+    "141": {
+      "name": "Andreas Lyager",
+      "file": "img/riders/andreas-lyager.png"
+    },
+    "142": {
+      "name": "Jonas Seifert-Salk",
+      "file": "img/riders/jonas-seifert-salk.png"
+    },
+    "143": {
+      "name": "Matias Nielsen",
+      "file": "img/riders/matias-nielsen.png"
+    },
+    "144": {
+      "name": "Tim Sørensen",
+      "file": "img/riders/tim-sorensen.png"
+    },
+    "147": {
+      "name": "Anton Karlsson",
+      "file": "img/riders/anton-karlsson.png"
+    },
+    "151": {
+      "name": "Dimitri Buch",
+      "file": "img/riders/dimitri-buch.webp"
+    },
+    "155": {
+      "name": "Esben Hjerrild",
+      "file": "img/riders/esben-hjerrild.png"
+    },
+    "168": {
+      "name": "Oliver Berntzon",
+      "file": "img/riders/oliver-berntzon.png"
+    },
+    "175": {
+      "name": "Charles Wright",
+      "file": "img/riders/charles-wright.png"
+    },
+    "182": {
+      "name": "Kenneth Bjerre",
+      "file": "img/riders/kenneth-bjerre.png"
+    },
+    "183": {
+      "name": "Matej Žagar",
+      "file": "img/riders/matej-zagar.png"
+    },
+    "184": {
+      "name": "Piotr Protasiewicz",
+      "file": "img/riders/piotr-protasiewicz.jpg"
+    },
+    "185": {
+      "name": "Paweł Przedpełski",
+      "file": "img/riders/pawel-przedpelski.png"
+    },
+    "186": {
+      "name": "Robert Chmiel",
+      "file": "img/riders/robert-chmiel.png"
+    },
+    "187": {
+      "name": "William Drejer",
+      "file": "img/riders/william-echardt-drejer.png"
+    },
+    "188": {
+      "name": "Kacper Andrzejewski",
+      "file": "img/riders/kacper-andrzejewski.png"
+    },
+    "189": {
+      "name": "Mateusz Bartkowiak",
+      "file": "img/riders/mateusz-bartkowiak.png"
+    },
+    "190": {
+      "name": "Norbert Krakowiak",
+      "file": "img/riders/norbert-krakowiak.png"
+    },
+    "191": {
+      "name": "Patrick Hansen",
+      "file": "img/riders/patrick-hansen.png"
+    },
+    "192": {
+      "name": "Patryk Wojdyło",
+      "file": "img/riders/patryk-wojdylo.png"
+    },
+    "193": {
+      "name": "Tomasz Orwat",
+      "file": "img/riders/tomasz-orwat.png"
+    },
+    "197": {
+      "name": "Jakub Jamróg",
+      "file": "img/riders/jakub-jamrog.png"
+    },
+    "199": {
+      "name": "Marcin Nowak",
+      "file": "img/riders/marcin-nowak.png"
+    },
+    "201": {
+      "name": "Mateusz Szczepaniak",
+      "file": "img/riders/mateusz-szczepaniak.png"
+    },
+    "202": {
+      "name": "Paweł Miesiąc",
+      "file": "img/riders/pawel-miesiac.png"
+    },
+    "203": {
+      "name": "Bastian Pedersen",
+      "file": "img/riders/bastian-pedersen.png"
+    },
+    "204": {
+      "name": "Philip Hellström-Bängs",
+      "file": "img/riders/philip-hellstrom-bangs.png"
+    },
+    "205": {
+      "name": "Oskar Polis",
+      "file": "img/riders/oskar-polis.png"
+    },
+    "206": {
+      "name": "Villads Nagel",
+      "file": "img/riders/villads-nagel.png"
+    },
+    "207": {
+      "name": "Adam Putkowski",
+      "file": "img/riders/adam-putkowski.png"
+    },
+    "208": {
+      "name": "Adrian Przybyło",
+      "file": "img/riders/adrian-przybylo.png"
+    },
+    "209": {
+      "name": "Arkadiusz Kordek",
+      "file": "img/riders/arkadiusz-kordek.png"
+    },
+    "210": {
+      "name": "Emil Konieczny",
+      "file": "img/riders/emil-konieczny.png"
+    },
+    "211": {
+      "name": "Emil Maroszek",
+      "file": "img/riders/emil-maroszek.png"
+    },
+    "212": {
+      "name": "Filip Seniuk",
+      "file": "img/riders/filip-seniuk.png"
+    },
+    "213": {
+      "name": "Franciszek Dymowski",
+      "file": "img/riders/franciszek-dymowski.png"
+    },
+    "214": {
+      "name": "Gracjan Szostak",
+      "file": "img/riders/gracjan-szostak.png"
+    },
+    "215": {
+      "name": "Igor Gryzło",
+      "file": "img/riders/igor-gryzlo.png"
+    },
+    "216": {
+      "name": "Jakub Kiciński",
+      "file": "img/riders/jakub-kicinski.png"
+    },
+    "217": {
+      "name": "Jan Heleniak",
+      "file": "img/riders/jan-heleniak.png"
+    },
+    "218": {
+      "name": "Kacper Mania",
+      "file": "img/riders/kacper-mania.png"
+    },
+    "219": {
+      "name": "Kamil Kawecki",
+      "file": "img/riders/kamil-kawecki.png"
+    },
+    "220": {
+      "name": "Kamil Witkowski",
+      "file": "img/riders/kamil-witkowski.png"
+    },
+    "221": {
+      "name": "Kryspin Jarosz",
+      "file": "img/riders/kryspin-jarosz.png"
+    },
+    "224": {
+      "name": "Kuba Wojtyńka",
+      "file": "img/riders/kuba-wojtynka.png"
+    },
+    "225": {
+      "name": "Miłosz Grygolec",
+      "file": "img/riders/milosz-grygolec.png"
+    },
+    "226": {
+      "name": "Oskar Kręglicki",
+      "file": "img/riders/oskar-kreglicki.png"
+    },
+    "227": {
+      "name": "Paweł Sitek",
+      "file": "img/riders/pawel-sitek.png"
+    },
+    "228": {
+      "name": "Tobiasz Potasznik",
+      "file": "img/riders/tobiasz-potasznik.png"
+    },
+    "229": {
+      "name": "Tomasz Szeląg",
+      "file": "img/riders/tomasz-szelag.png"
+    },
+    "230": {
+      "name": "Antoni Mencel",
+      "file": "img/riders/antoni-mencel.png"
+    },
+    "231": {
+      "name": "Bartosz Głogowski",
+      "file": "img/riders/bartosz-glogowski.png"
+    },
+    "232": {
+      "name": "Franciszek Majewski",
+      "file": "img/riders/franciszek-majewski.png"
+    },
+    "233": {
+      "name": "Jakub Wieszczak",
+      "file": "img/riders/jakub-wieszczak.png"
+    },
+    "235": {
+      "name": "Kacper Szopa",
+      "file": "img/riders/kacper-szopa.png"
+    },
+    "236": {
+      "name": "Kacper Teska",
+      "file": "img/riders/kacper-teska.png"
+    },
+    "237": {
+      "name": "Mateusz Affelt",
+      "file": "img/riders/mateusz-affelt.png"
+    },
+    "239": {
+      "name": "Sebastian Madej",
+      "file": "img/riders/sebastian-madej.png"
+    },
+    "240": {
+      "name": "Seweryn Orgacki",
+      "file": "img/riders/seweryn-orgacki.png"
+    },
+    "241": {
+      "name": "Szymon Bańdur",
+      "file": "img/riders/szymon-bandur.png"
+    },
+    "242": {
+      "name": "Tobiasz Jakub Musielak",
+      "file": "img/riders/tobiasz-jakub-musielak.png"
+    },
+    "243": {
+      "name": "Wiktor Rafalski",
+      "file": "img/riders/wiktor-rafalski.png"
+    },
+    "244": {
+      "name": "Bartosz Nowak",
+      "file": "img/riders/bartosz-nowak.png"
+    },
+    "246": {
+      "name": "Jakub Osyczka",
+      "file": "img/riders/jakub-osyczka.jpg"
+    },
+    "247": {
+      "name": "Mikołaj Czapla",
+      "file": "img/riders/mikolaj-czapla.png"
+    },
+    "248": {
+      "name": "Olivier Buszkiewicz",
+      "file": "img/riders/olivier-buszkiewicz.png"
+    },
+    "249": {
+      "name": "Piotr Świercz",
+      "file": "img/riders/piotr-swiercz.png"
+    },
+    "250": {
+      "name": "Michał Curzytek",
+      "file": "img/riders/michal-curzytek.png"
+    },
+    "251": {
+      "name": "Damian Pawliczak",
+      "file": "img/riders/damian-pawliczak.jpg"
+    },
+    "252": {
+      "name": "Denis Zieliński",
+      "file": "img/riders/denis-zielinski.png"
+    },
+    "253": {
+      "name": "Karol Żupiński",
+      "file": "img/riders/karol-zupinski.png"
+    },
+    "254": {
+      "name": "Mateusz Tonder",
+      "file": "img/riders/mateusz-tonder.png"
+    },
+    "255": {
+      "name": "Rafał Karczmarz",
+      "file": "img/riders/rafal-karczmarz.jpg"
+    },
+    "256": {
+      "name": "Szymon Szlauderbach",
+      "file": "img/riders/szymon-szlauderbach.png"
+    },
+    "257": {
+      "name": "Nile Tufft",
+      "file": "img/riders/nile-tufft.jpg"
+    },
+    "259": {
+      "name": "Roman Lachbaum",
+      "file": "img/riders/roman-lakhbaum.jpg"
+    },
+    "260": {
+      "name": "Wiktor Jasiński",
+      "file": "img/riders/wiktor-jasinski.png"
+    },
+    "261": {
+      "name": "Adrian Miedziński",
+      "file": "img/riders/adrian-miedzinski.png"
+    },
+    "263": {
+      "name": "Krzysztof Kasprzak",
+      "file": "img/riders/krzysztof-kasprzak.png"
+    },
+    "264": {
+      "name": "Sebastian Szostak",
+      "file": "img/riders/sebastian-szostak.png"
+    },
+    "265": {
+      "name": "Jesper Knudsen",
+      "file": "img/riders/jesper-knudsen.png"
+    },
+    "266": {
+      "name": "Mitchell McDiarmid",
+      "file": "img/riders/mitchell-mcdiarmid.png"
+    },
+    "267": {
+      "name": "Tate Zischke",
+      "file": "img/riders/tate-zischke.png"
+    },
+    "271": {
+      "name": "Daniel Klíma",
+      "file": "img/riders/daniel-klima.png"
+    },
+    "272": {
+      "name": "Franciszek Karczewski",
+      "file": "img/riders/franciszek-karczewski.png"
+    },
+    "273": {
+      "name": "Oskar Hurysz",
+      "file": "img/riders/oskar-hurysz.png"
+    },
+    "274": {
+      "name": "Kacper Pludra",
+      "file": "img/riders/kacper-pludra.png"
+    },
+    "275": {
+      "name": "Antoni Kawczyński",
+      "file": "img/riders/antoni-kawczynski.png"
+    },
+    "276": {
+      "name": "Maksym Borowiak",
+      "file": "img/riders/maksym-borowiak.png"
+    },
+    "277": {
+      "name": "Marcel Kowolik",
+      "file": "img/riders/marcel-kowolik.webp"
+    },
+    "279": {
+      "name": "Fraser Bowes",
+      "file": "img/riders/fraser-bowes.png"
+    },
+    "282": {
+      "name": "Michael West",
+      "file": "img/riders/michael-west.png"
+    },
+    "283": {
+      "name": "Kacper Halkiewicz",
+      "file": "img/riders/kacper-halkiewicz.png"
+    },
+    "284": {
+      "name": "Szymon Ludwiczak",
+      "file": "img/riders/szymon-ludwiczak.png"
+    },
+    "286": {
+      "name": "William Cairns",
+      "file": "img/riders/william-cairns.png"
+    },
+    "288": {
+      "name": "James Pearson",
+      "file": "img/riders/james-pearson.png"
+    },
+    "306": {
+      "name": "Sven Cerjak",
+      "file": "img/riders/sven-cerjak.webp"
+    },
+    "314": {
+      "name": "Kacper Łobodziński",
+      "file": "img/riders/kacper-lobodzinski.png"
+    },
+    "315": {
+      "name": "Mario Häusl",
+      "file": "img/riders/mario-haeusl.png"
+    },
+    "316": {
+      "name": "Jakub Żurek",
+      "file": "img/riders/jakub-zurek.png"
+    },
+    "319": {
+      "name": "Kacper Grzelak",
+      "file": "img/riders/kacper-grzelak.png"
+    },
+    "326": {
+      "name": "Daniel Kaczmarek",
+      "file": "img/riders/daniel-kaczmarek.png"
+    },
+    "331": {
+      "name": "Adrian Gała",
+      "file": "img/riders/adrian-gala.png"
+    },
+    "339": {
+      "name": "Krystian Pieszczek",
+      "file": "img/riders/krystian-pieszczek.png"
+    },
+    "348": {
+      "name": "Dawid Lampart",
+      "file": "img/riders/dawid-lampart.jpg"
+    },
+    "355": {
+      "name": "Antonio Lindbäck",
+      "file": "img/riders/antonio-lindbaeck.jpg"
+    },
+    "357": {
+      "name": "Daniel Jeleniewski",
+      "file": "img/riders/daniel-jeleniewski.jpg"
+    },
+    "359": {
+      "name": "Peter Ljung",
+      "file": "img/riders/peter-ljung.jpg"
+    },
+    "361": {
+      "name": "Tomasz Gapiński",
+      "file": "img/riders/tomasz-gapinski.png"
+    },
+    "362": {
+      "name": "Mikołaj Duchiński",
+      "file": "img/riders/mikolaj-duchinski.png"
+    },
+    "367": {
+      "name": "Alexander Adamson",
+      "file": "img/riders/alexander-adamson.png"
+    },
+    "390": {
+      "name": "Kacper Gomólski",
+      "file": "img/riders/kacper-gomolski.jpg"
+    },
+    "403": {
+      "name": "Zoltan Lovas",
+      "file": "img/riders/zoltan-lovas.png"
+    },
+    "404": {
+      "name": "Sam Hagon",
+      "file": "img/riders/sam-hagon.webp"
+    },
+    "406": {
+      "name": "Anže Grmek",
+      "file": "img/riders/anze-grmek.png"
+    },
+    "423": {
+      "name": "Dawid Grzeszczyk",
+      "file": "img/riders/dawid-grzeszczyk.png"
+    },
+    "425": {
+      "name": "Eryk Kamiński",
+      "file": "img/riders/eryk-kaminski.png"
+    },
+    "428": {
+      "name": "Marcel Juskowiak",
+      "file": "img/riders/marcel-juskowiak.png"
+    },
+    "430": {
+      "name": "Piotr Piotrowski-Prędki",
+      "file": "img/riders/piotr-piotrowski-predki.png"
+    },
+    "432": {
+      "name": "Bartosz Tyburski",
+      "file": "img/riders/bartosz-tyburski.png"
+    },
+    "433": {
+      "name": "Hubert Gąsior",
+      "file": "img/riders/hubert-gasior.png"
+    },
+    "437": {
+      "name": "Kacper Warduliński",
+      "file": "img/riders/kacper-wardulinski.png"
+    },
+    "441": {
+      "name": "Krzysztof Sadurski",
+      "file": "img/riders/krzysztof-sadurski.png"
+    },
+    "443": {
+      "name": "Miłosz Wysocki",
+      "file": "img/riders/milosz-wysocki.png"
+    },
+    "445": {
+      "name": "Kevin Fajfer",
+      "file": "img/riders/kevin-fajfer.png"
+    },
+    "448": {
+      "name": "Adrian Cyfer",
+      "file": "img/riders/adrian-cyfer.png"
+    },
+    "474": {
+      "name": "Slater Lightcap",
+      "file": "img/riders/slater-lightcap.png"
+    },
+    "477": {
+      "name": "Artur Mroczka",
+      "file": "img/riders/artur-mroczka.jpg"
+    },
+    "480": {
+      "name": "Grzegorz Walasek",
+      "file": "img/riders/grzegorz-walasek.png"
+    },
+    "481": {
+      "name": "Norbert Kościuch",
+      "file": "img/riders/norbert-kosciuch.png"
+    },
+    "497": {
+      "name": "Cooper Rushen",
+      "file": "img/riders/cooper-rushen.png"
+    },
+    "527": {
+      "name": "Beau Bailey",
+      "file": "img/riders/beau-bailey.png"
+    },
+    "579": {
+      "name": "Villads Pedersen",
+      "file": "img/riders/villads-pedersen.png"
+    }
+  },
+  "clubs": {
+    "1": {
+      "name": "Betard Sparta Wrocław",
+      "file": "img/logos/sparta-wroclaw.png"
+    },
+    "2": {
+      "name": "PRES Grupa Deweloperska Toruń",
+      "file": "img/logos/apator-torun.png"
+    },
+    "3": {
+      "name": "Stelmet Falubaz Zielona Góra",
+      "file": "img/logos/falubaz-zielona-gora.png"
+    },
+    "4": {
+      "name": "Orlen Oil Motor Lublin",
+      "file": "img/logos/motor-lublin.png"
+    },
+    "5": {
+      "name": "Innpro ROW Rybnik",
+      "file": "img/logos/row-rybnik.png"
+    },
+    "6": {
+      "name": "Krono-Plast Włókniarz Częstochowa",
+      "file": "img/logos/wlokniarz-czestochowa.png"
+    },
+    "7": {
+      "name": "Gezet Stal Gorzów",
+      "file": "img/logos/stal-gorzow.png"
+    },
+    "8": {
+      "name": "Bayersystem GKM Grudziądz",
+      "file": "img/logos/gkm-grudziadz.png"
+    },
+    "9": {
+      "name": "Fogo Unia Leszno",
+      "file": "img/logos/unia-leszno.png"
+    },
+    "10": {
+      "name": "Abramczyk Polonia Bydgoszcz",
+      "file": "img/logos/polonia-bydgoszcz.png"
+    },
+    "11": {
+      "name": "Cellfast Wilki Krosno",
+      "file": "img/logos/wilki-krosno.png"
+    },
+    "12": {
+      "name": "Texom Stal Rzeszów",
+      "file": "img/logos/stal-rzeszow.png"
+    },
+    "13": {
+      "name": "Hunters PSŻ Poznań",
+      "file": "img/logos/psz-poznan.png"
+    },
+    "14": {
+      "name": "Moonfin Malesa Ostrów",
+      "file": "img/logos/ostrovia-ostrow.png"
+    },
+    "15": {
+      "name": "Autona Unia Tarnów",
+      "file": "img/logos/unia-tarnow.png"
+    },
+    "16": {
+      "name": "H.Skrzydlewska Orzeł Łódź",
+      "file": "img/logos/orzel-lodz.png"
+    },
+    "17": {
+      "name": "Wybrzeże Gdańsk",
+      "file": "img/logos/wybrzeze-gdansk.png"
+    },
+    "18": {
+      "name": "Ultrapur Start Gniezno",
+      "file": "img/logos/start-gniezno.png"
+    },
+    "19": {
+      "name": "Optibet Lokomotiv Daugavpils",
+      "file": "img/logos/lokomotiv-daugavpils.png"
+    },
+    "20": {
+      "name": "Pronergy Polonia Piła",
+      "file": "img/logos/polonia-pila.png"
+    },
+    "21": {
+      "name": "Speedway Kraków",
+      "file": "img/logos/speedway-krakow.png"
+    },
+    "22": {
+      "name": "OK Kolejarz Opole",
+      "file": "img/logos/kolejarz-opole.png"
+    },
+    "23": {
+      "name": "Trans MF Landshut Devils",
+      "file": "img/logos/landshut-devils.png"
+    }
+  },
+  "leagues": {
+    "PGE": "img/logos/pge-ekstraliga.png",
+    "2E": "img/logos/metalkas-2-ekstraliga.png",
+    "KLZ": "img/logos/krajowa-liga-zuzlowa.jpg",
+    "U24": "img/logos/u24-ekstraliga.pdf"
+  }
+}

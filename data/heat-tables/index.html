@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tabele biegowe 2026 — Speedway Manager</title>
+<style>
+body{font:16px system-ui,sans-serif;background:#101925;color:#edf2f8;margin:32px auto;padding:0 20px;max-width:1100px}h1{font-size:28px}a{color:#8fc8ff}select{font:inherit;padding:12px;background:#203149;color:white;border:1px solid #59708e;border-radius:7px;width:100%}.meta{color:#aec0d7}table{border-collapse:collapse;width:100%;margin:20px 0}th,td{text-align:left;padding:10px;border-bottom:1px solid #33445a}th{background:#203149;position:sticky;top:0}small{display:block;color:#b3c1d2}i{display:inline-block;width:10px;height:10px;border-radius:100%;margin-right:6px;border:1px solid #8794a6}.grading td{border-bottom:3px solid #6480a5}code{font-size:13px}li{margin:5px 0}.scroll{overflow:auto}
+</style>
+<h1>Tabele biegowe · 2026</h1>
+<p class="meta">Speedway Manager · weryfikacja 01.10.2026 · programy zawodów i obsada biegów</p>
+<p><a href="README.md">Instrukcja importu</a> · <a href="heat-tables-2026.json">JSON</a> · <a href="heats.csv">CSV</a> · <a href="validation-report.json">Wyniki kontroli</a></p>
+<label for="format">Format zawodów</label><select id="format"></select>
+<p id="info"></p><div class="scroll"><table><thead><tr><th>Bieg</th><th>Pole A (wewnątrz)</th><th>Pole B</th><th>Pole C</th><th>Pole D</th></tr></thead><tbody id="heats"></tbody></table></div>
+<p>Puste pola w danych oznaczają wybór lub losowanie. Wiersze takich biegów poniżej przedstawiają uczestników, a nie przypisane pola. Grubsza linia oznacza zapisaną przerwę na równanie toru.</p>
+<div id="notes"></div><h2>Źródła tabeli</h2><ul id="sources"></ul>
+<script src="heat-tables-2026.js"></script>
+<script>
+'use strict';
+const p=SPEEDWAY_HEAT_TABLES,s=document.getElementById('format');
+const palette={'czerwony':'#ed4c4c','niebieski':'#468af2','biały':'#fff','żółty':'#ffd84c'};
+for(const t of p.tables){const o=document.createElement('option');o.value=t.id;o.textContent=t.name;s.append(o);}
+function label(q){if(q.type==='startNumber')return 'Nr '+q.number;if(q.type==='teamSlot')return q.team+' · zawodnik '+q.slot;if(q.type==='rank')return 'Miejsce '+q.place+(q.ranking==='main'?' po fazie zasadniczej':' w '+q.ranking);if(q.type==='result')return 'Miejsce '+q.place+' w biegu '+q.heat;return 'Nominacja '+q.key;}
+function render(){const t=p.tables.find(t=>t.id===s.value);document.getElementById('info').textContent=t.heatCount+' biegów · punktacja '+t.points.join('–')+' · '+t.id;
+const b=document.getElementById('heats');b.replaceChildren();for(const h of t.heats){const tr=document.createElement('tr');if(h.gradingAfter)tr.className='grading';const n=document.createElement('td');n.textContent=h.no;tr.append(n);for(const e of h.entries){const td=document.createElement('td');td.textContent=label(e.participant);const sub=document.createElement('small');sub.textContent=(e.team?e.team+' · ':'')+(e.helmet||'kask po wyborze pola')+(e.gate?'':' · pole do ustalenia');if(e.helmet){const dot=document.createElement('i');dot.style.background=palette[e.helmet];sub.prepend(dot);}td.append(sub);tr.append(td);}b.append(tr);}
+const notes=document.getElementById('notes');notes.replaceChildren();for(const text of t.notes||[]){const n=document.createElement('p');n.textContent=text;notes.append(n);}
+const list=document.getElementById('sources');list.replaceChildren();for(const ref of t.sources){const source=p.sources.find(x=>x.id===ref.id),li=document.createElement('li'),a=document.createElement('a');a.href=source.downloadStatus==='downloaded'?'sources/'+source.file:source.url;a.textContent=ref.id+' · '+ref.locator;li.append(a);list.append(li);}}
+s.addEventListener('change',render);render();
+</script></html>

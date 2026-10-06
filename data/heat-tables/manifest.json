@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "season": 2026,
+  "verifiedAt": "2026-10-01",
+  "tableCount": 27,
+  "heatCount": 526,
+  "sources": [
+    {
+      "id": "fime",
+      "url": "https://www.fim-europe.com/wp-content/uploads/2026/02/2-2026-Track-Racing-Rules-09.02.26.pdf",
+      "file": "fime-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "661a82db3dbfb3d624764786011cdf1ebc6c484852cb48f10a2290c5423fb40e"
+    },
+    {
+      "id": "ipe-mini",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/2026_ipe85-140cc_20260212.pdf",
+      "file": "ipe-mini-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "9f71fb492461704cd04883bef569ef6aa8dd4f134d40769997012779ee066f6c"
+    },
+    {
+      "id": "dpe-mini",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/2026_dpe85-140cc_20260212.pdf",
+      "file": "dpe-mini-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "d5ece3985a26a63bf470bb33851664fa833ec8a3cddea2e70273e66902965ed8"
+    },
+    {
+      "id": "imp500",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/regulamin-imp-500r-2026.pdf",
+      "file": "imp500-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "61668eb1bc37da54a89e96cf97ec7326178cac0c392706317c29d4cd077fed14"
+    },
+    {
+      "id": "dpe500",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/2026_500rcc_dpe_20260309.pdf",
+      "file": "dpe500-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "3b5247d791be12cb2fd126e6a06f603ad4811c151711b1d47a59d929f79ef38c"
+    },
+    {
+      "id": "dp2e500",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/2026_500rcc_dp2e_20260309.pdf",
+      "file": "dp2e500-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "0d249036337df3d8c4240936c169be5e25eb8da9e7c8f6fdba4005981f2823c7"
+    },
+    {
+      "id": "ipe500",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/2026_500rcc_ipe_20260309.pdf",
+      "file": "ipe500-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "2cae31bcdebe77f529692fd579594f9ec9a318d42e2f3e0ea61a05254c69c252"
+    },
+    {
+      "id": "kaski",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/15-kaski-2026.pdf",
+      "file": "kaski-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "12b311d5defcc1dccb7375e03bb8cfc902de740162293d5dd2dae3279093aa52"
+    },
+    {
+      "id": "rzmot",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/02-rzmot-2026-20260310_0.pdf",
+      "file": "pzm-rzmot-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "a1ab5add7c47f3e1ee1dc2aa10723097989470be959e64b535b62c70ebe706a7"
+    },
+    {
+      "id": "ekstraliga",
+      "url": "https://archiwum.pzm.pl/pliki/zg/zuzel/2026/Regulaminy/2026pgee_20251017_clean.pdf",
+      "file": "ekstraliga-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "48a5b651d2411ca9672d3bf2eff1f753f7f0107d77bfc217084f73eba047df1c"
+    },
+    {
+      "id": "2ekstraliga",
+      "url": "https://archiwum.pzm.pl/pliki/zg/zuzel/2026/Regulaminy/2026_m2e_20251024.pdf",
+      "file": "2ekstraliga-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "14251006b6cd23b8932556cf8a5c14e506b27a8726d31f21858c168ed1e0d5e2"
+    },
+    {
+      "id": "klz",
+      "url": "https://archiwum.pzm.pl/pliki/zg/zuzel/2026/12b_dm_2_ligi_2026.pdf",
+      "file": "klz-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "81dafbd9ed1ab6128d0d3494cb0f6e767fc82f9264d1f802309ae697b87152e8"
+    },
+    {
+      "id": "dmpj",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/13-dmpj-2026.pdf",
+      "file": "dmpj-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "6a168a397c24252bbe3dc9046e0f34a02c2373157b3af4cab48a940285ed0710"
+    },
+    {
+      "id": "pairs",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/14-pary-2026.pdf",
+      "file": "pary-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "e1380a6bd85c1dbdf256c3c00c27ccf9a363a792bdd275dfcb0821e0360a6e6e"
+    },
+    {
+      "id": "imp",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/09-imp-2026v2.pdf",
+      "file": "imp-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "b78740bb2144e289395c230c35a6577f7f646b047e87772167d282adea5c2afa"
+    },
+    {
+      "id": "u24",
+      "url": "https://archiwum.pzm.pl/pliki/zg/zuzel/2026/Regulaminy/2026_u24e_20251211.pdf",
+      "file": "u24-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "44fe8121ef328d3d6b93fc80824706918bcfb34910911325db65b573e35f31a3"
+    },
+    {
+      "id": "mini",
+      "url": "https://pzm.pl/pliki/zg/zuzel/2026/2026.05.14-regulamin-minizuzla.pdf",
+      "file": "mini-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "9cb6542b0d69d46b2ea88ebe95adcdcefc19b7ab0e65bec9d3bbca4bd7b428c3"
+    },
+    {
+      "id": "sgp",
+      "url": "https://www.fim-moto.com/fileadmin/user_upload/Documents/2025/2025_FIM_Speedway_Grand_Prix_World_Championship_regulations.pdf?t=1790412853",
+      "file": "sgp-current.pdf",
+      "note": "PDF podlinkowany przez stronę organizatora jako 2026 ma okładkę 2025. Zachowany porównawczo; główna podstawa: sgp2026 i aktualny opis organizatora.",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "8af6a9a4dac2455e6556e6d039dc2ae513fdaafed8fe6e8e980f90ea3b346b62"
+    },
+    {
+      "id": "sgp2026",
+      "url": "https://www.fim-moto.com/fileadmin/user_upload/Documents/2026/2026_FIM_Speedway_Grand_Prix_World_Championship_regulations.pdf?t=1773596470",
+      "file": "sgp-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "unavailable",
+      "sha256": null,
+      "verification": "read-via-web-index",
+      "transcription": "sources/sgp-2026-table.txt",
+      "note": "PDF 2026 odczytany przez indeks internetowy; pobranie bezpośrednie zwraca 404."
+    },
+    {
+      "id": "swc",
+      "url": "https://www.fim-moto.com/fileadmin/FIM_Speedway_World_Cup_regulations_2026.pdf",
+      "file": "swc-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "40cfdae0888f0fad40b22cc2ca422763b8c375c17d597c6623d41079acbf9fe1"
+    },
+    {
+      "id": "son",
+      "url": "https://www.fim-moto.com/fileadmin/user_upload/Documents/2026/2026_FIM_Speedway_of_Nations_regulations.pdf",
+      "file": "son-2026.pdf",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "5a24a56a82fb7d99e62109f0195b4cf65267492af3256e62c5e9d20e3047df6f"
+    },
+    {
+      "id": "hg2020",
+      "url": "http://www.speedway.hg.pl/zyx_dodatek_specjalny/tabele_biegowe/Liga_2020.htm",
+      "file": "liga-2020.html",
+      "note": "Historyczny materiał porównawczy użytkownika, nie podstawa aktualności 2026.",
+      "retrievedAt": "2026-10-01",
+      "downloadStatus": "downloaded",
+      "sha256": "13cd46e804e1d7964c3f70ba240f9a73d4d2c3cda93429007a503eea81516ea8"
+    },
+    {
+      "id": "sgp-rules-web",
+      "url": "https://fimspeedway.com/sgp/rules",
+      "retrievedAt": "2026-10-01",
+      "note": "Aktualny opis organizatora potwierdzający format 2026."
+    }
+  ]
+}

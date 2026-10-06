@@ -1,0 +1,28 @@
+FIM SGP World Championship Regulations 2026, art. 8.5, pages 19-20.
+Read through web index on 2026-10-01. Direct PDF download returned HTTP 404.
+https://www.fim-moto.com/fileadmin/user_upload/Documents/2026/2026_FIM_Speedway_Grand_Prix_World_Championship_regulations.pdf?t=1773596470
+Factual table transcription, columns: heat, A, B, C, D.
+Heat 1 1 2 3 4
+Heat 2 5 7 6 8
+Heat 3 10 11 9 12
+Heat 4 15 14 16 13
+Heat 5 13 1 5 9
+Heat 6 14 10 2 6
+Heat 7 11 15 7 3
+Heat 8 4 8 12 16
+Heat 9 6 16 1 11
+Heat 10 12 5 15 2
+Heat 11 8 9 3 14
+Heat 12 13 4 10 7
+Heat 13 7 12 14 1
+Heat 14 2 13 8 11
+Heat 15 16 3 10 5
+Heat 16 9 6 4 15
+Heat 17 1 8 15 10
+Heat 18 9 2 7 16
+Heat 19 3 12 13 6
+Heat 20 5 14 11 4
+21: ranks 3,6,8,9; 22: ranks 4,5,7,10.
+23: ranks 1,2 plus winners of 21,22.
+Gate selection: 21/22 by main rank; 23 ranks 1,2 first, then LCQ winners ordered by main rank.
+SGP3 and SGP4 end after heat 20, without semifinals or final.

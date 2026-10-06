@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-01",
+  "tables": 27,
+  "heats": 526,
+  "staticSourceSequences": [
+    {
+      "table": "individual-16-20",
+      "source": "pzm-rzmot-2026.raw.txt",
+      "rows": 20
+    },
+    {
+      "table": "individual-20-25",
+      "source": "pzm-rzmot-2026.raw.txt",
+      "rows": 20
+    },
+    {
+      "table": "sgp-16-23",
+      "source": "sgp-2026-table.txt",
+      "rows": 20
+    },
+    {
+      "table": "league-15-set-1",
+      "source": "ekstraliga-2026.raw.txt",
+      "rows": 13
+    },
+    {
+      "table": "league-15-set-1",
+      "source": "2ekstraliga-2026.raw.txt",
+      "rows": 13
+    },
+    {
+      "table": "league-15-set-1",
+      "source": "klz-2026.raw.txt",
+      "rows": 13
+    },
+    {
+      "table": "league-15-set-2",
+      "source": "ekstraliga-2026.raw.txt",
+      "rows": 13
+    },
+    {
+      "table": "league-15-set-2",
+      "source": "2ekstraliga-2026.raw.txt",
+      "rows": 13
+    },
+    {
+      "table": "league-15-set-2",
+      "source": "klz-2026.raw.txt",
+      "rows": 13
+    },
+    {
+      "table": "pairs-5-pzm",
+      "source": "pzm-rzmot-2026.raw.txt",
+      "rows": 10
+    },
+    {
+      "table": "pairs-6-pzm",
+      "source": "pzm-rzmot-2026.raw.txt",
+      "rows": 15
+    },
+    {
+      "table": "pairs-7-pzm",
+      "source": "pzm-rzmot-2026.raw.txt",
+      "rows": 21
+    },
+    {
+      "table": "pairs-6-fime",
+      "source": "fime-2026.raw.txt",
+      "rows": 15
+    },
+    {
+      "table": "pairs-7-fime",
+      "source": "fime-2026.raw.txt",
+      "rows": 21
+    },
+    {
+      "table": "pairs-8-fime",
+      "source": "fime-2026.raw.txt",
+      "rows": 28
+    },
+    {
+      "table": "dmpj-4-20",
+      "source": "pzm-rzmot-2026.raw.txt",
+      "rows": 16
+    },
+    {
+      "table": "u24e-4-18",
+      "source": "u24-2026.raw.txt",
+      "rows": 18
+    },
+    {
+      "table": "mini-dmp-7-21",
+      "source": "mini-2026.raw.txt",
+      "rows": 21
+    },
+    {
+      "table": "mini-dmp-7-21",
+      "source": "dpe500-2026.raw.txt",
+      "rows": 21
+    },
+    {
+      "table": "mini-dmp-6-18",
+      "source": "mini-2026.raw.txt",
+      "rows": 18
+    },
+    {
+      "table": "dpe-pairs-7-21",
+      "source": "dpe-mini-2026.raw.txt",
+      "rows": 21
+    },
+    {
+      "table": "dpe-pairs-7-21",
+      "source": "dp2e500-2026.raw.txt",
+      "rows": 21
+    },
+    {
+      "table": "youth-20-21",
+      "source": "mini-2026.raw.txt",
+      "rows": 20
+    },
+    {
+      "table": "youth-20-21",
+      "source": "ipe-mini-2026.raw.txt",
+      "rows": 20
+    },
+    {
+      "table": "youth-20-21",
+      "source": "ipe500-2026.raw.txt",
+      "rows": 20
+    }
+  ],
+  "checks": [
+    "Unique riders/gates/helmets; references; 120 unique individual pairings; each pair-team meets every opponent once.",
+    "SWC team-column to gate conversion and all 28 SON2 rows verified against PDF text.",
+    "SGP LCQ/final selection; independent league nominated gate set; partner gate swaps preserve helmets; missing choices rejected; Node/browser exports."
+  ],
+  "warnings": [
+    "SGP 2026: PDF available through web index, direct download 404; factual transcription retained. Linked SGP organiser PDF has 2025 cover and is supplementary only."
+  ],
+  "status": "passed"
+}
